@@ -9,8 +9,8 @@ I love learning new things, solving challenging problems, and creating projects 
 ### 💻 Tech & Skills
 Here are some of the tools and languages I enjoy working with:
 
-- **Languages:** C++, Python, JavaScript, SQL  
-- **Frameworks:** Next.js, FastAPI, Ionic + Capacitor, Tailwind CSS  
+- **Languages:** Python, JavaScript, SQL  
+- **Frameworks:** Next.js, FastAPI, Ionic + Capacitor, Tailwind CSS  , Vuejs
 - **Databases & Tools:** PostgreSQL, Docker, DBeaver, Git  
 - **Other Skills:** System Analysis, Abstract Algebra, Machine Learning  
 
