@@ -25,8 +25,8 @@ Here are some of the tools and languages I enjoy working with:
 ---
 
 ### 📈 GitHub Stats
-![Augustine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Augustine&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Augustine&layout=compact&theme=radical)
+![Augustine's GitHub stats](https://github-readme-stats.vercel.app/api?username=zangastan&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zangastan&layout=compact&theme=radical)
 
 ---
 
