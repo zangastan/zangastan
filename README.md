@@ -31,8 +31,8 @@ Here are some of the tools and languages I enjoy working with:
 ---
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- [Portfolio]([https://twitter.com/your-twitter](https://augustinekasolota.netlify.app/))  
+- [LinkedIn](https://www.linkedin.com/in/augustine-k-a35281328)  
+- [Portfolio](https://augustinekasolota.netlify.app/)  
 - [Email](mailto:kasolotaaugustine@gmail.com)  
 
 ---
